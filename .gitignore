@@ -1,0 +1,10 @@
+cypress.config.js
+node_modules/
+package-lock.json
+package.json
+cypress/e2e/test1.cy.js
+cypress/fixtures/example.json
+cypress/support/commands.js
+cypress/support/e2e.js
+
+
